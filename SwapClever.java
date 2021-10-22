@@ -22,8 +22,7 @@ public class SwapClever {
 			System.out.println("The value of the 2nd variable: " + b);	
 		} catch (java.util.InputMismatchException e) {
 			System.out.println("Please input a valid number.Exiting..");
-            System.exit(0);
-        }
+            		System.exit(0);
+        	}
 	}
-
 }
